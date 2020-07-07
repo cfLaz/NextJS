@@ -1,0 +1,27 @@
+{
+  "name": "nextjs",
+  "version": "1.0.0",
+  "description": "introduction",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cfLaz/NextJS.git"
+  },
+  "author": "Lazo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cfLaz/NextJS/issues"
+  },
+  "homepage": "https://github.com/cfLaz/NextJS#readme",
+  "dependencies": {
+    "next": "^9.4.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
